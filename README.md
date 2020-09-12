@@ -98,7 +98,7 @@ ________________________________________________________________________________
 
 # BeautifulSoup
 
-To get better at scraping, take time to consult the library’s official documentation.
+To get better at scraping, take time to consult the library’s official <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">documentation</a>
 
 Setting up
 We need at least two Python libraries to write a scraper:
