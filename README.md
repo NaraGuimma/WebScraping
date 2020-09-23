@@ -2,6 +2,9 @@
 
 
 **SQL queries**
+
+
+
 SELECT columns
 FROM table
 JOIN table ON condition
